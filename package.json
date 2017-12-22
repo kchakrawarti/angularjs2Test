@@ -1,0 +1,24 @@
+{
+  "name": "angulartest",
+  "version": "1.0.0",
+  "description": "This ptoject to design for learning perpose.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kchakrawarti/angularjs2Test.git"
+  },
+  "keywords": [
+    "angularjs2"
+  ],
+  "author": "Kalu Ram Chakrawarti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kchakrawarti/angularjs2Test/issues"
+  },
+  "homepage": "https://github.com/kchakrawarti/angularjs2Test#readme"
+}
